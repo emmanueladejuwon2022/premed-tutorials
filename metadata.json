@@ -1,0 +1,13 @@
+{
+  "name": "Premed Tutorials",
+  "description": "Unified CBT Examination & Learning Management System for Medical Candidates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Ai Proctoring",
+    "Real-time Analytics",
+    "Curriculum Management"
+  ]
+}
