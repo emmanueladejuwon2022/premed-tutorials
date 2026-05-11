@@ -58,11 +58,3 @@ To build and run the application for production:
     ```bash
     npm start
     ```
-
-## Note on "AI Studio Dependency"
-
-You mentioned removing the AI Studio dependency. Everything in this codebase is purely open-source standard technologies (React, Express, MongoDB, Tailwind, Vite). The platform runs on them natively. To export the code:
-
-1.  Click the **Export/Download** button in the top right corner of the AI Studio editor header (it usually looks like a download icon or is inside the settings gear / three-dots menu).
-2.  Download the **ZIP** file or push it directly to your **GitHub** account.
-3.  Follow the instructions above to run it anywhere!
